@@ -31,11 +31,20 @@
 </entry>
 
 <entry>
-  <title>聊天记录计网基础与p2p打洞</title>
+  <title>rhel9 中文文档</title>
   <author>
     <name>unknow</name>
   </author>
-  <link type="application/epub" href="cnv3.epub"/>
+  <link type="application/epub" href="./red_hat_enterprise_linux-9-configuring_basic_system_settings-en-us.epub"/>
+ 
+</entry>
+
+<entry>
+  <title>red_hat_enterprise_linux-9-configuring_basic_system_settings</title>
+  <author>
+    <name>unknow</name>
+  </author>
+  <link type="application/epub" href="red_hat_enterprise_linux-9-configuring_basic_system_settings-en-us.epub"/>
  
 </entry>
 
