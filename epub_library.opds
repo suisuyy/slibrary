@@ -26,7 +26,7 @@
   <author>
     <name>unknow</name>
   </author>
-  <link type="application/epub" href="ts_graphic_render_practice.epub"/>
+  <link type="application/epub" href="./ts_graphic_render_practice.epub"/>
  
 </entry>
 
@@ -35,7 +35,7 @@
   <author>
     <name>unknow</name>
   </author>
-  <link type="application/epub" href="./red_hat_enterprise_linux-9-configuring_basic_system_settings-en-us.epub"/>
+  <link type="application/epub" href="./red_hat_enterprise_linux-9-configuring_basic_system_settings-zh-cn.epub"/>
  
 </entry>
 
@@ -44,7 +44,7 @@
   <author>
     <name>unknow</name>
   </author>
-  <link type="application/epub" href="red_hat_enterprise_linux-9-configuring_basic_system_settings-en-us.epub"/>
+  <link type="application/epub" href="./red_hat_enterprise_linux-9-configuring_basic_system_settings-en-us.epub"/>
  
 </entry>
 
@@ -54,7 +54,7 @@
   <author>
     <name>unknow</name>
   </author>
-  <link type="application/epub" href="csapp.epub"/>
+  <link type="application/epub" href="./csapp.epub"/>
  
 </entry>
 
