@@ -38,6 +38,15 @@
   <link type="application/epub" href="./HowLinuxWorks_cn.epub"/>
  
 </entry>
+  
+<entry>
+
+  <title>how linux wroks 3rd</title>
+  <author>
+    <name>unknow</name>
+  </author>
+  <link type="application/epub" href="./HowLinuxWorks3rd,.epub"/>
+</entry>
 
 <entry>
   <title>rhel9 中文文档</title>
